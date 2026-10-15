@@ -1,0 +1,25 @@
+# === Entorno Virtual ===
+.venv/
+venv/
+ENV/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+
+# === Datos y Resultados (para no subir archivos pesados a Git) ===
+data/raw/*
+data/processed/*
+results/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!results/.gitkeep
+
+# === Variables de entorno ===
+.env

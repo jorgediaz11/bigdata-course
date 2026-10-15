@@ -1,0 +1,12 @@
+# === Core Big Data & Data Science ===
+pyspark
+pandas
+numpy
+
+# === Entorno Interactivo ===
+jupyter
+ipykernel
+
+# === Visualización ===
+matplotlib
+seaborn
