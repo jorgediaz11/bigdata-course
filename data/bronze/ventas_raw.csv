@@ -1,0 +1,6 @@
+id,producto,categoria,precio,fecha
+1,laptop,electronica,1200.5,2023-10-01
+2,SMARTPHONE,Electronica,800.0,2023-10-02
+3,,muebles,300.0,2023-10-03
+4,silla,Muebles,150.75,2023-10-04
+5,monitor,electronica,-50.0,2023-10-05

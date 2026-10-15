@@ -1,0 +1,4 @@
+id,producto,categoria,precio,fecha,fecha_procesamiento
+1,Laptop,ELECTRONICA,1200.5,2023-10-01,2026-10-15 08:56:26
+2,Smartphone,ELECTRONICA,800.0,2023-10-02,2026-10-15 08:56:26
+4,Silla,MUEBLES,150.75,2023-10-04,2026-10-15 08:56:26
